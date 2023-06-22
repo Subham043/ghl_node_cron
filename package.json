@@ -1,0 +1,17 @@
+{
+  "name": "tristar-cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tristar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.3.1",
+    "node-cron": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
